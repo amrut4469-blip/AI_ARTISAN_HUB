@@ -1,184 +1,192 @@
-# AI ARTISAN HUB
+# ✨ AI ARTISAN HUB
 
-AI ARTISAN HUB is an AI-powered artisan marketplace and social commerce platform built with Kotlin and Jetpack Compose.
+### AI-Powered Artisan Marketplace & Social Commerce Platform
 
-## Project Overview
+<p align="center">
 
-AI ARTISAN HUB is designed to connect four major user groups:
+**Discover • Create • Connect • Sell • Deliver**
 
-- Artisans
-- Buyers
-- Delivery Partners
-- Administrators
+</p>
 
-The platform combines:
+---
 
-- AI-powered assistance
-- Artisan marketplace
-- Social commerce
-- Real-time communication
-- Orders and payments
-- Delivery management
-- Analytics
-- Premium animated user interface
+## 🌟 About AI ARTISAN HUB
 
-## User Roles
+**AI ARTISAN HUB** is an AI-powered digital marketplace and social-commerce platform designed to connect:
 
-### Artisan
+🧑‍🎨 **Artisans**  
+🛍️ **Buyers**  
+🚚 **Delivery Partners**  
+🛡️ **Administrators**
 
-Artisans can:
+The platform combines **AI assistance, marketplace commerce, social discovery, real-time communication, delivery operations and premium motion-based UI** into one connected ecosystem.
 
-- Create and manage products
-- Manage their store
-- Manage inventory
-- Receive and process orders
-- Track earnings
-- Create stories and promotional content
-- Communicate with customers
-- Use AI-powered business assistance
+---
 
-### Buyer
+## 🎯 Project Vision
 
-Buyers can:
+AI ARTISAN HUB is designed to become more than a traditional shopping application.
 
-- Discover products
-- Search products
-- View product details
-- Add products to cart
-- Purchase products
-- Track orders
-- Follow artisans
-- Create collections
-- Chat with artisans
-- Use AI-powered shopping assistance
+It brings together:
 
-### Delivery Partner
+> 🧑‍🎨 Creator Economy  
+> 🤖 Artificial Intelligence  
+> 🛍️ Marketplace  
+> 📱 Social Commerce  
+> 💬 Real-Time Communication  
+> 🚚 Delivery Operations  
+> 📊 Business Intelligence
 
-Delivery partners can:
+The goal is to create a connected digital ecosystem where artisans can build businesses, buyers can discover products socially, delivery partners can manage logistics, and administrators can operate the platform.
 
-- View delivery jobs
-- Accept delivery tasks
-- Manage pickup and delivery
-- Track delivery status
-- Upload proof of delivery
-- View earnings
-- Use AI-powered route assistance
+---
 
-### Administrator
+# 👥 Four Connected Experiences
 
-Administrators can:
+| 🧑‍🎨 Artisan | 🛍️ Buyer |
+|---|---|
+| Store Management | Product Discovery |
+| Product Creation | Smart Search |
+| Inventory | Cart & Wishlist |
+| Orders | Checkout |
+| Earnings | Order Tracking |
+| Stories | Reviews |
+| AI Studio | AI Shopping |
 
-- Manage users
-- Verify artisans
-- Moderate products and content
-- Manage orders
-- Monitor delivery operations
-- Manage payments and reconciliation
-- View analytics
-- Monitor platform operations
+| 🚚 Delivery Partner | 🛡️ Administrator |
+|---|---|
+| Delivery Jobs | User Management |
+| Pickup | Artisan Verification |
+| Navigation | Product Moderation |
+| Delivery Status | Order Operations |
+| Proof of Delivery | Delivery Operations |
+| Earnings | Analytics |
+| AI Route Assistant | AI Operations |
 
-## AI System
+---
 
-AI ARTISAN HUB includes role-specific AI assistants:
+# 🤖 AI Ecosystem
 
-| Role | AI Assistant |
-|------|--------------|
-| Artisan | Artisan Copilot |
-| Buyer | Smart Shopping Assistant |
-| Delivery Partner | Route & Operations Copilot |
-| Administrator | Operations Intelligence Center |
+AI ARTISAN HUB uses role-specific AI assistance.
 
-## Social Commerce
+### 🧑‍🎨 Artisan Copilot
 
-The platform includes social-commerce features such as:
+- Product Writer
+- Visual Catalog AI
+- Pricing Helper
+- Content Creator
+- Sales Insights
+- Customer Reply Assistant
+- Stock Forecast
+- Business Coach
 
-- Stories
-- Posts
-- Short videos
-- Following
-- Mentions
-- Hashtags
-- Product sharing
-- Collections
-- Social discovery
+### 🛍️ Buyer Smart Shopping Assistant
 
-## Marketplace
+- Visual Search
+- Conversational Discovery
+- Gift Assistant
+- Compare Assistant
+- Personalized Discovery
+- Order Assistant
+- Review Summarizer
+- Support Assistant
 
-Core marketplace features include:
+### 🚚 Delivery Operations Copilot
 
-- Product catalog
-- Product search
-- Product details
-- Cart
-- Wishlist
-- Checkout
-- Orders
-- Reviews
-- Returns
-- Refunds
+- Route Planner
+- ETA Assistant
+- Task Prioritizer
+- Exception Assistant
+- Voice Mode
+- Daily Summary
 
-## Communication
+### 🛡️ Admin Operations Intelligence
 
-The platform is designed to support:
+- Anomaly Detection
+- Moderation Copilot
+- Business Analyst
+- Support Copilot
+- Forecasting
+- Incident Summarizer
+- AI Governance
 
-- Buyer-artisan chat
-- Order-linked conversations
-- Image sharing
-- Product-card sharing
-- Voice messages
-- Typing indicators
-- Online status
-- Read and delivery states
-- Reactions
-- Mentions
-- Block, mute and report
+---
 
-## Technology Stack
+# 📱 Social Commerce
 
-### Android
+AI ARTISAN HUB combines social discovery with shopping.
 
-- Kotlin
-- Jetpack Compose
-- Material 3
-- MVVM / Clean Architecture
+### Social Features
 
-### Backend
+📸 Stories  
+📝 Posts  
+🎬 Short Videos  
+❤️ Following  
+🔖 Collections  
+#️⃣ Hashtags  
+📣 Mentions  
+🛍️ Product Sharing  
 
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Cloud Storage
-- Firebase Cloud Functions
-- Firebase Cloud Messaging
-- Firebase Analytics
-- Firebase Crashlytics
+Products can be discovered naturally through social content and creator activity.
 
-### AI
+---
 
-- AI model/API integration
-- Backend AI tool layer
-- Role-based AI workflows
+# 💬 Real-Time Communication
 
-### Other Services
+The platform is designed for direct and order-linked communication.
 
-- Payment gateway
-- Maps and routing
-- Real-time notifications
+### Communication Features
 
-## Application Architecture
+- 💬 Buyer ↔ Artisan Chat
+- 🧾 Order-linked Conversations
+- 🖼️ Image Sharing
+- 🛍️ Product Card Sharing
+- 🎙️ Voice Messages
+- ⌨️ Typing Indicators
+- 🟢 Online Status
+- ✓ Read / Delivery States
+- ❤️ Reactions
+- @ Mentions
+- 🔇 Mute
+- 🚫 Block
+- 🚩 Report
+
+---
+
+# 🛒 Marketplace
+
+### Shopping Experience
+
+🔎 Product Search  
+🧭 Explore  
+📦 Product Details  
+❤️ Wishlist  
+🛒 Cart  
+💳 Checkout  
+📋 Orders  
+⭐ Reviews  
+↩️ Returns  
+💰 Refunds  
+
+---
+
+# 🚚 Order & Delivery Flow
 
 ```text
-User
-  ↓
-Android Application
-  ↓
-Jetpack Compose UI
-  ↓
-ViewModel / Use Cases
-  ↓
-Repository Layer
-  ↓
-Firebase / Backend Services
-  ↓
-AI Services / Payments / Maps
-  ↓
-Real-time Response
+Created
+   ↓
+Payment Pending
+   ↓
+Paid
+   ↓
+Confirmed
+   ↓
+Preparing
+   ↓
+Ready for Pickup
+   ↓
+Picked Up
+   ↓
+In Transit
+   ↓
+Delivered
