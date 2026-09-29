@@ -1,0 +1,37 @@
+# 🔄 User Flows
+
+Step-by-step workflows for every role.
+
+## A. Artisan: Onboarding → First Product
+
+```mermaid
+flowchart LR
+    A[Sign up] --> B[Choose Artisan] --> C[Profile setup] --> D[Craft details]
+    D --> E[Optional verification] --> F[Product Studio] --> G[Upload images]
+    G --> H[AI suggests title / description / tags] --> I[Artisan reviews] --> J[Publish]
+    J --> K[Visible in marketplace]
+```
+
+## B. Buyer: Purchase
+
+Sign up → personalized feed → story/product discovery → product details → select variant → cart → address → delivery option → payment → confirmation → order timeline → delivery → review.
+
+## C. Social Discovery
+
+Open Stories → view artisan story → tap product sticker → product page → save / follow / add to cart → optionally share or chat.
+
+## D. Delivery Partner
+
+Go online → job assigned → accept → navigate to pickup → verify package → confirm pickup → route to buyer → OTP / proof → delivered → earnings updated.
+
+## E. Admin: Incident Handling
+
+Alert appears → admin opens incident → AI summarizes verified data → admin checks original records → admin chooses action → action is logged → affected users are notified.
+
+## Checkout Working
+
+Select product/variant → cart validation → stock validation → address → delivery calculation → coupon validation → payment request → **server verifies payment** → order confirmed → artisan notified → delivery workflow begins.
+
+## Chat Working
+
+Message created → backend validates sender and conversation → message stored → real-time update to recipient → notification sent → read state updated.
