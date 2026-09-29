@@ -1,200 +1,86 @@
-# AI ARTISAN HUB — Features
-
-## 1. Product Vision
-
-AI ARTISAN HUB is designed as a multi-sided digital marketplace combining:
-
-- Artisan commerce
-- Buyer discovery
-- Social commerce
-- AI assistance
-- Real-time communication
-- Delivery operations
-- Administrative operations
-- Analytics
-
-The platform is designed around four connected user experiences.
-
----
-
-# 2. Artisan Features
-
-## Artisan Dashboard
-
-Artisans can access:
-
-- Home
-- Products
-- Orders
-- Earnings
-- Stories
-- AI Studio
-- Messages
-
-## Store & Profile
-
-- Artisan profile
-- Store management
-- Product catalog
-- Inventory management
-- Order center
-- Earnings
-- Customer communication
-
-## Product Studio
-
-Artisans can create and manage product information and catalog content.
-
-## Promotion & Insights
-
-- Promotional content
-- Sales insights
-- Customer engagement
-- Business insights
-
----
-
-# 3. Artisan AI — Artisan Copilot
-
-The Artisan Copilot provides role-specific AI assistance.
-
-### Product Writer
-
-Assists with product descriptions and catalog content.
-
-### Visual Catalog AI
-
-Supports visual catalog workflows.
-
-### Pricing Helper
-
-Assists with pricing-related workflows.
-
-### Content Creator
-
-Supports promotional and social content creation.
-
-### Sales Insights
-
-Provides business-oriented insights.
-
-### Customer Reply Assistant
-
-Assists with customer responses.
-
-### Stock Forecast
-
-Supports inventory planning.
-
-### Business Coach
-
-Provides business-oriented assistance.
-
-> AI-generated factual claims should be reviewed and confirmed by the artisan.
-
----
-
-# 4. Buyer Features
-
-## Buyer Dashboard
-
-The buyer experience includes:
-
-- Feed
-- Explore
-- Shop
-- Cart
-- Orders
-- Chats
-- Stories
-- AI Shopping
-
-## Shopping
-
-Buyers can:
-
-- Search products
-- Discover products
-- View product details
-- Add products to cart
-- Manage wishlist
-- Checkout
-- Track orders
-- Review purchases
-
-## Social Discovery
-
-Buyers can:
-
-- Follow artisans
-- View stories
-- Discover products through social content
-- Save content and products
-- Interact with creator content
-
----
-
-# 5. Buyer AI — Smart Shopping Assistant
-
-### Visual Search
-
-Supports product discovery using visual input.
-
-### Conversational Discovery
-
-Allows natural-language product discovery.
-
-### Gift Assistant
-
-Assists with gift discovery.
-
-### Compare Assistant
-
-Supports product comparison workflows.
-
-### Personalized Discovery
-
-Supports personalized product discovery.
-
-### Order Assistant
-
-Provides order-related assistance.
-
-### Review Summarizer
-
-Summarizes product reviews.
-
-### Support Assistant
-
-Supports buyer assistance workflows.
-
----
-
-# 6. Delivery Partner Features
-
-## Delivery Dashboard
-
-Delivery partners can manage:
-
-- Online / Offline status
-- Job queue
-- Order details
-- Navigation
-- Pickup
-- Delivery
-- Proof of delivery
-- Exceptions
-- Earnings
-
-## Delivery Status Flow
-
-```text
-Assigned
-   ↓
-Pickup
-   ↓
-Picked Up
-   ↓
-In Transit
-   ↓
-Delivered
+# 🚀 Features
+
+Complete feature list of **AI ARTISAN HUB**, organized by dashboard.
+
+## 🧑‍🎨 Artisan Dashboard
+
+> A complete digital business operating system for artisans.
+
+| Module | What it does |
+|---|---|
+| 🏪 Profile & Store | Bio, craft category, experience, photos, verification state, store settings |
+| 🎨 Product Studio | Name, photos, video, price, stock, material, dimensions, weight, variants, customization, shipping |
+| 🧠 Smart Catalog | AI-assisted title, description, category and tags; image-quality checks; duplicate warnings |
+| 📦 Inventory | Stock, variants, low-stock alerts, out-of-stock state, bulk updates |
+| 🧾 Order Center | New, confirmed, preparing, ready for pickup, shipped, delivered, cancelled, returned |
+| 💰 Earnings | Gross sales, fees, refunds, pending amount, payouts, transaction history |
+| 📸 Story Studio | Photo/video stories, captions, product stickers, mentions, story insights |
+| 💬 Customer Chat | Text, images, product cards, voice messages, order-linked chats |
+| 📣 Promotion Center | Coupons, campaigns, featured products, shareable product cards |
+| 📈 Insights | Views, saves, inquiries, conversions, orders, revenue trends |
+
+## 🛍️ Buyer Dashboard
+
+| Module | What it does |
+|---|---|
+| 🏠 Home Feed | Personalized marketplace and social feed |
+| 🔍 Explore | Categories, crafts, trends, collections, featured artisans |
+| 🗣️ Natural-Language Search | Describe what you want instead of only using filters |
+| 🖼️ Product Details | Gallery, video, artisan story, materials, price, variants, shipping, reviews |
+| 🛒 Cart & Wishlist | Saved products, quantities, variants, price-change indicators |
+| 💳 Checkout | Address, delivery option, coupon, payment, confirmation |
+| 📍 Order Tracking | Timeline from confirmation to delivery |
+| ⭐ Reviews | Text, images/video, rating, seller response |
+| ➕ Follow System | Follow artisans and receive their new content |
+| 📱 Social Feed | Stories, posts, likes, comments, saves, shares, mentions |
+
+## 🚚 Delivery Partner Dashboard
+
+| Module | What it does |
+|---|---|
+| 🟢 Delivery Home | Online/offline status, active job, daily tasks, earnings |
+| 📋 Job Queue | Assigned orders with pickup, delivery area, package info, priority |
+| ✅ Order Details | Customer contact controls, pickup checklist, package verification |
+| 🗺️ Navigation | Route view, stop sequence, navigation handoff |
+| 🔁 Status Flow | Accepted → At pickup → Picked up → In transit → Nearby → Delivered / Failed |
+| 📝 Proof of Delivery | OTP, signature/photo, timestamp, notes |
+| ⚠️ Exceptions | Customer unavailable, address issue, damaged package, seller delay |
+| 💵 Earnings | Completed deliveries, incentives, adjustments, payout status |
+
+## 🛡️ Admin Dashboard
+
+| Module | What it does |
+|---|---|
+| 📊 Executive Overview | Users, orders, GMV, refunds, delivery performance, alerts |
+| 👤 User Management | Search, role, verification, status, reports, audit history |
+| ✔️ Artisan Verification | Document/status workflow and review decisions |
+| 🧹 Product Moderation | Reports, duplicates, misleading metadata, approval states |
+| 📦 Order Operations | Search by order, user, artisan, partner, payment state, date |
+| 💳 Payments & Reconciliation | Transaction states, refunds, failed payments, settlements |
+| 🚚 Delivery Operations | Partner availability, active jobs, delayed orders, issue queues |
+| 🚩 Content Moderation | Reports on stories, posts, comments, messages, profiles |
+| 🔔 Notification Center | Announcements and campaigns |
+| 🧾 Audit Logs | Sensitive admin actions and changes |
+
+## 📸 Social Layer
+
+Stories • Posts • Short videos • Follow • Mentions • Hashtags • Collections • Live events *(future)*
+
+## 💬 Communication
+
+One-to-one chat • order-linked conversations • image and product-card sharing • voice messages • typing indicator • reactions • reply-to-message • read states • block / mute / report • admin support chat • conversation search
+
+## 🛒 Marketplace
+
+- Product lifecycle: `draft → pending review → published → paused → out of stock → archived`
+- Search by title, description, category, tags, artisan name, material
+- Filters: category, price, availability, rating, craft type, customization, delivery region
+- Recommendations: similar, from this artisan, related craft, recently viewed, personalized
+- Trust info: seller profile, verification, reviews, shipping and return policy
+- Shareable product deep links
+
+## 💎 Premium UI
+
+Animated splash • live background • glass-style cards • micro-interactions • shared product transitions • story progress • skeleton loading • animated counters • reduced-motion option
+
+See also: [AI System](ai-system.md) · [User Roles](user-roles.md) · [Roadmap](roadmap.md)
