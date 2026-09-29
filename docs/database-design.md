@@ -627,8 +627,6 @@ conversations
 users
  └── auditLogs
 
-24. Scalability
-
 The database design should support future expansion including:
 
 AI-powered personalization
@@ -643,7 +641,6 @@ Offline-first artisan drafts
 Web-based administration
 Deep links
 
-25. Database Design Goal
 
 The database architecture is designed to provide a secure and scalable foundation for the four connected AI ARTISAN HUB products:
 Artisan Business Platform
