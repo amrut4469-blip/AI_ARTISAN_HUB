@@ -217,7 +217,14 @@ AI_ARTISAN_HUB/
 │   ├── tech-stack.md
 │   ├── security.md
 │   ├── notifications-analytics.md
-│   └── testing.md
+│   ├── testing.md
+│   ├── social-layer.md
+│   ├── chat-communication.md
+│   ├── marketplace-catalog.md
+│   ├── orders-payments.md
+│   ├── ui-ux-design.md
+│   ├── future-features.md
+│   └── product-strategy.md
 ├── .gitignore
 └── README.md
 ```
@@ -238,6 +245,13 @@ AI_ARTISAN_HUB/
 | [Security](docs/security.md) | Security and privacy rules |
 | [Notifications & Analytics](docs/notifications-analytics.md) | Events, alerts and metrics |
 | [Testing](docs/testing.md) | Test plan |
+| [Social Layer](docs/social-layer.md) | Stories, posts, follow, mentions |
+| [Chat & Communication](docs/chat-communication.md) | Real-time chat and voice |
+| [Marketplace & Catalog](docs/marketplace-catalog.md) | Products, search, recommendations |
+| [Orders & Payments](docs/orders-payments.md) | Checkout, payments, delivery |
+| [UI & Motion](docs/ui-ux-design.md) | Premium UI and animation rules |
+| [Future Features](docs/future-features.md) | Planned advanced modules |
+| [Product Strategy](docs/product-strategy.md) | MVP-to-advanced plan |
 | [Roadmap](docs/roadmap.md) | Development phases |
 
 ---
